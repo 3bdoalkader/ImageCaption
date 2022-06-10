@@ -1,0 +1,9 @@
+pretrainedmodels
+torchvision
+torch
+pycocotools
+matplotlib
+nltk
+numpy
+Pillow
+argparse
